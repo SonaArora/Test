@@ -1,6 +1,6 @@
 
 #demo file
-ansible==1.9.6
+ansible==2.9.20
 cffi==1.7.0
 configparser==3.5.0
 cryptography==1.4
